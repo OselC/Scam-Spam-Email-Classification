@@ -3,7 +3,8 @@
 A machine learning–based web application built with **Streamlit** to classify emails as **Not Spam (0)** or **Scam/Spam (1)** using Natural Language Processing (NLP) techniques.
 
 Dataset: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
-Streamlit App: https://scam-spam-email-classification-agggm7cm5vgx7fnh7jfn6o.streamlit.app/
+Streamlit App: https://scam-spam-email-classification-agggm7cm5vgx7fnh7jfn6o.streamlit.app/ 
+
 ---
 
 ## 🚀 Features
