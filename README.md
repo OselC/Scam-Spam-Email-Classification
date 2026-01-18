@@ -1,8 +1,8 @@
-# Scam & Spam Email Classification
-
-# 📧 Spam & Scam Email Detection Web App
+# Scam & Spam Email Classification App
 
 A machine learning–based web application built with **Streamlit** to classify emails as **Not Spam (0)** or **Scam/Spam (1)** using Natural Language Processing (NLP) techniques.
+
+Dataset: https://www.kaggle.com/datasets/purusinghvi/email-spam-classification-dataset
 
 ---
 
